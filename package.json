@@ -1,0 +1,28 @@
+{
+  "name": "social-network",
+  "version": "1.0.0",
+  "description": "Social Network API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clint-Hansen/social-network.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "api"
+  ],
+  "author": "Clint Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clint-Hansen/social-network/issues"
+  },
+  "homepage": "https://github.com/Clint-Hansen/social-network#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.11"
+  }
+}
